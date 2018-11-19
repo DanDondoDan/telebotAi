@@ -2,7 +2,7 @@
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import apiai
 import json
-from token import ApiAI, TOKEN
+from telebot_ai.token import ApiAI, TOKEN
 import logging
 
 logger = logging.getLogger(__name__)
