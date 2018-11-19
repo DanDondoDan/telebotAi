@@ -1,0 +1,28 @@
+# Pycharm trash
+.idea
+__pycache__/
+.python*
+.vscode
+# virtualenv
+.venv
+venv/
+venv
+
+# Distribution
+.DS_Store
+.cache/
+
+# python identifiers
+.python-version
+
+
+
+
+*.swp
+*.pyo
+*.pyc
+
+*.sqlite3
+
+*.log
+*.db
