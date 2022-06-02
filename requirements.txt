@@ -65,7 +65,7 @@ easy-thumbnails==2.5
 et-xmlfile==1.0.1
 future==0.16.0
 gunicorn==19.9.0
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.7
 jdcal==1.4
 jsonfield==2.0.2
